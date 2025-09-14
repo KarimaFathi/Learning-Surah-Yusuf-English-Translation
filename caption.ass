@@ -15,27 +15,27 @@ Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.68,0:00:06.52,Default,,0,0,0,,الحمد لله واشهد ان لا اله الا الله وحده 
-Dialogue: 0,0:00:02.68,0:00:09.04,Default,,0,0,0,,لا شريك له واشهد ان محمدا عبده ورسوله
-Dialogue: 0,0:00:06.52,0:00:13.64,Default,,0,0,0,,صلى الله عليه وسلم اما بعد اهلا ومرحبا
-Dialogue: 0,0:00:09.04,0:00:18.00,Default,,0,0,0,,بكم في اللقاء الاول من السلسله الجديده
-Dialogue: 0,0:00:13.64,0:00:23.40,Default,,0,0,0,,وسلسله التدبر الجديده والدوره الجديده
-Dialogue: 0,0:00:18.00,0:00:25.84,Default,,0,0,0,,وهي سلسله تعلمت من يوسف عليه السلام او
-Dialogue: 0,0:00:23.40,0:00:28.08,Default,,0,0,0,,انسميها هي تدبر سوره يوسف عليه وعلى
-Dialogue: 0,0:00:25.84,0:00:30.28,Default,,0,0,0,,نبينا الصلاه والسلام
-Dialogue: 0,0:00:28.08,0:00:33.44,Default,,0,0,0,,فنسال الله ان يفتح علينا بخير
-Dialogue: 0,0:00:30.28,0:00:37.48,Default,,0,0,0,,وان يوفقنا لكل خير
-Dialogue: 0,0:00:33.44,0:00:42.36,Default,,0,0,0,,وان يتقبل منا ومنكم صالح الاعمال
-Dialogue: 0,0:00:37.48,0:00:45.24,Default,,0,0,0,,وان يعيننا على يعني على عب تدبر هذه
-Dialogue: 0,0:00:42.36,0:00:48.64,Default,,0,0,0,,الصوره الحقيقه هو يعني الكلام مش مش
-Dialogue: 0,0:00:45.24,0:00:51.48,Default,,0,0,0,,مبالغه الانسان يشعر بعبء شديد يعني عبء
-Dialogue: 0,0:00:48.64,0:00:57.40,Default,,0,0,0,,كبير فعلا وهو داخل على الصوره ديت لانها
-Dialogue: 0,0:00:51.48,0:01:02.88,Default,,0,0,0,,ليست كاي صوره ربنا وصفها احسن القصص
-Dialogue: 0,0:00:57.40,0:01:06.16,Default,,0,0,0,,فالموضوع يحتاج مننا مجهود كبير اسف
-Dialogue: 0,0:01:02.88,0:01:06.16,Default,,0,0,0,,بسم الله
-Dialogue: 0,0:01:15.36,0:01:19.56,Default,,0,0,0,,الموضوع ياخد مننا مجهود كبير
-Dialogue: 0,0:01:22.12,0:01:29.80,Default,,0,0,0,,فنسال الله التوفيق والتيسير
-Dialogue: 0,0:01:25.64,0:01:29.80,Default,,0,0,0,,والسداد اللهم امين اللهم امين
+Dialogue: 0,0:00:00.68,0:00:06.52,Default,,0,0,0,,All praise is due to Allah, and I bear witness that there is no god but Allah, alone
+Dialogue: 0,0:00:02.68,0:00:09.04,Default,,0,0,0,,He has no partner, and I bear witness that Muhammad is His servant and Messenger
+Dialogue: 0,0:00:06.52,0:00:13.64,Default,,0,0,0,,May Allah’s peace and blessings be upon him. To proceed: welcome and greetings
+Dialogue: 0,0:00:09.04,0:00:18.00,Default,,0,0,0,,to you all in the first session of this new series
+Dialogue: 0,0:00:13.64,0:00:23.40,Default,,0,0,0,,The new series of reflection, this new course
+Dialogue: 0,0:00:18.00,0:00:25.84,Default,,0,0,0,,which we have titled: “Lessons I Learned from Yusuf, peace be upon him,” or,
+Dialogue: 0,0:00:23.40,0:00:28.08,Default,,0,0,0,,we may call it: Reflection on Surah Yusuf, peace and blessings be upon him
+Dialogue: 0,0:00:25.84,0:00:30.28,Default,,0,0,0,,and upon our Prophet
+Dialogue: 0,0:00:28.08,0:00:33.44,Default,,0,0,0,,So we ask Allah to open for us the doors of goodness
+Dialogue: 0,0:00:30.28,0:00:37.48,Default,,0,0,0,,And to grant us success in all that is good
+Dialogue: 0,0:00:33.44,0:00:42.36,Default,,0,0,0,,And to accept from us and from you our righteous deeds
+Dialogue: 0,0:00:37.48,0:00:45.24,Default,,0,0,0,,And to aid us in reflecting upon this Surah
+Dialogue: 0,0:00:42.36,0:00:48.64,Default,,0,0,0,,In truth…
+Dialogue: 0,0:00:45.24,0:00:51.48,Default,,0,0,0,,a person feels a heavy burden
+Dialogue: 0,0:00:48.64,0:00:57.40,Default,,0,0,0,,a great responsibility indeed, when approaching this Surah, because
+Dialogue: 0,0:00:51.48,0:01:02.88,Default,,0,0,0,,it is not like any other Surah — Allah described it as “the best of stories.”
+Dialogue: 0,0:00:57.40,0:01:06.16,Default,,0,0,0,,So this matter requires from us a great effort
+Dialogue: 0,0:01:02.88,0:01:06.16,Default,,0,0,0,,Bismillah
+Dialogue: 0,0:01:15.36,0:01:19.56,Default,,0,0,0,,This subject demands from us a great effort
+Dialogue: 0,0:01:22.12,0:01:29.80,Default,,0,0,0,,So we ask Allah for success, ease
+Dialogue: 0,0:01:25.64,0:01:29.80,Default,,0,0,0,,and guidance, Ameen, Ameen
 Dialogue: 0,0:01:32.72,0:01:35.72,Default,,0,0,0,,تمام
 Dialogue: 0,0:01:40.72,0:01:45.80,Default,,0,0,0,,كالعاده
 Dialogue: 0,0:01:42.72,0:01:49.40,Default,,0,0,0,,نبدا اي سوره
